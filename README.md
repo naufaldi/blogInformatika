@@ -14,5 +14,6 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
   + [personal blog](https://dib01.blogspot.com/)
   
 * **Your Name**
-  + [Your Web](https://yourlink.com)
+  + [Bill.WEB.ID](http://bill.web.id/)
+  + [Medium Bill](https://medium.com/@billxcode)
 
