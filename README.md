@@ -13,7 +13,7 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
 * **M Adib zamzam**
   + [personal blog](https://dib01.blogspot.com/)
   
-* **Bill Tanthowi **
+* **Bill Tanthowi**
   + [Bill.WEB.ID](http://bill.web.id/)
   + [Medium Bill](https://medium.com/@billxcode)
 
