@@ -11,5 +11,6 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
   + [Medium Naufaldi](https://medium.com/naufaldi)
 
 * **Your Name**
-  + [Your Web](https://yourlink.com)
+  + [Bill.WEB.ID](http://bill.web.id/)
+  + [Medium Bill](https://medium.com/@billxcode)
 
