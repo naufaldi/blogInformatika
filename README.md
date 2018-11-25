@@ -20,4 +20,5 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
 
 * **M Haffad TI"18**
   + [hikineet](https://hikineet.home.blog/)
+  + [hikineet](https://hikineet.home.blog/)
 
