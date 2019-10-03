@@ -25,3 +25,6 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
 * **Mochammad Wahyu Firmansyah TI'15**
   + [Ahfishare](https://ahfishare.com/)
   + [Blog Ahfishare](https://blog.ahfishare.com/)
+
+* **Nuzulul Huda**
+  + [Medium](https://medium.com/@hudanuzulul)
