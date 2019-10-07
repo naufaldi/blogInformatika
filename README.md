@@ -28,3 +28,6 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
 
 * **Nuzulul Huda**
   + [Medium](https://medium.com/@hudanuzulul)
+
+* **Alif Irfan Anshory**
+  + [Medium](https://medium.com/@alfari)
