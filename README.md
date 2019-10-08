@@ -31,3 +31,6 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
 
 * **Alif Irfan Anshory**
   + [Medium](https://medium.com/@alfari)
+
+* **Bang Adam TI'18**
+  + [Medium](https://medium.com/@bangadam.dev)
