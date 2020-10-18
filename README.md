@@ -34,3 +34,6 @@ Daftar list blog / medium mahasiswa teknik informatika UIN Malang
 
 * **Bang Adam TI'18**
   + [Medium](https://medium.com/@bangadam.dev)
+
+* **Alvian Burhanudin**
+  + [Not Pro](https://elfarqy.my.id)
